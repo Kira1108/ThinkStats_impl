@@ -1,3 +1,3 @@
 # Implement thinkstats codes
 
-Initial coding stage
+Initial coding stage[ABC]
